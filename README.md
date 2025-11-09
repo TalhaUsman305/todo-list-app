@@ -18,4 +18,4 @@ A simple web app to manage daily tasks using JavaScript and localStorage.
 3. Add tasks and manage them
 
 ## 📸 Screenshot
-![App Preview](preview.png)
+![App Preview](todo-list-app.jpg)
